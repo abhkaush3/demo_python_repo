@@ -8,6 +8,6 @@ metadata:
   annotations:
     github.com/project-slug: abhkaush3/demo_python_repo
 spec:
-  type: python
+  type: java
   lifecycle: experimental
   owner: backstage
