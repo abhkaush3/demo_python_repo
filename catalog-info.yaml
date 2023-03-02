@@ -8,6 +8,7 @@ metadata:
     - demo
   annotations:
     github.com/project-slug: abhkaush3/demo_python_repo
+    backstage.io/managed-by-location: url:http://github.com/backstage/backstage/blob/master/catalog-info.yaml
 spec:
   type: java
   lifecycle: experimental
