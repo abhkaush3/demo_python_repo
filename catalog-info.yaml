@@ -1,9 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo_python_repo
+  name: demo_python_repo_v1
   tags:
     - java
+    - python
   annotations:
     github.com/project-slug: abhkaush3/demo_python_repo
 spec:
