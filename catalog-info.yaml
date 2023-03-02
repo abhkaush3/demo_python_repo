@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: demo_python_repo
   tags:
-    - python
-    - Demo
+    - java
   annotations:
     github.com/project-slug: abhkaush3/demo_python_repo
 spec:
